@@ -1,0 +1,25 @@
+body{
+    background: black;
+    color:white;
+}
+
+
+.img-logo{
+    width: 50px !important;
+}
+
+.nav-link{
+    color:white;
+}
+
+.icon{
+    color: white !important;
+}
+.card .card-footer{
+    text-align: center;
+    background-color: aqua;
+}
+.card{
+    background: black !important;
+    color:white !important;
+}

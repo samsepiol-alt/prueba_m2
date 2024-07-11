@@ -36,6 +36,10 @@ body{
 .btn-aqua{
     margin-top: 20px;
     background-color: aqua !important;
+    
+}
+button{
+color:white !important;
 }
 
 #footer{

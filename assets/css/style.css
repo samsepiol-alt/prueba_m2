@@ -4,8 +4,8 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
-.social{
-    font-weight: 800;
+.social i {
+    color: white !important;
 }
 
 .img-logo{

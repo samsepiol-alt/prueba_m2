@@ -15,6 +15,11 @@ body{
 .icon{
     color: white !important;
 }
+
+.card .card-header{
+    text-align: center;
+    background-color: aqua;
+}
 .card .card-footer{
     text-align: center;
     background-color: aqua;
@@ -22,4 +27,14 @@ body{
 .card{
     background: black !important;
     color:white !important;
+}
+
+.btn-aqua{
+    margin-top: 20px;
+    background-color: aqua !important;  
+}
+
+#footer{
+    background-color: aqua;
+    color: white;
 }
